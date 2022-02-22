@@ -5,9 +5,7 @@ Equipe:
 coordenação: Bruno Feitler
 
 bolsistas: Ana Paula Mendonça
-           
            Juliete Anjos Souza
-           
            Felipe Melo
 
 email para contato: brunofeitler@gmail.com
