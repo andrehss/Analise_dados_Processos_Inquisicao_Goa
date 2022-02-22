@@ -4,11 +4,9 @@ Equipe:
 
 coordenação: Bruno Feitler
 
-bolsistas: Ana Paula Mendonça
-           Juliete Anjos Souza
-           Felipe Melo
+bolsistas: Ana Paula Mendonça, Juliete Anjos Souza, Felipe Melo
 
-email para contato: brunofeitler@gmail.com
+Email para contato: brunofeitler@gmail.com
 
 UM PROJETO DESENVOLVIDO NO Departamento de História da Escola de Filosofia, Letras e Ciências Humanas, UNIFESP.
 
